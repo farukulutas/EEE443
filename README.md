@@ -30,6 +30,8 @@ The datasets for the mini projects are available in the repository or via the pr
 
 [Mini Project Dataset Link](https://drive.google.com/drive/folders/1fpFzsOMizqp0xsRsqM5EphuwiCvzxVK6?usp=sharing)
 
+[Final Project Dataset Link](https://drive.google.com/file/d/1NMHaKvp47AbVXWb_wpJSzZlwJ6mL9WB1/view?usp=sharing)
+
 ## Examination Materials
 
 This repository includes materials such as quizzes from the course.
