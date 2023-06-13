@@ -6,9 +6,17 @@ This repository contains coursework, including assignments, projects, and tutori
 
 - **Project Name:** Text-to-Image Synthesis using Conditional Latent Spaces and Generative Adversarial Networks
 
+  _Grade:_ **95/100**
+  
+  Prof. Feedback -> (Good overall results and report. Formatting could be improved.)
+
   _Abstract_: Our project develops a deep learning model that turns textual descriptions into matching visual representations. Our model architecture combines Conditional Latent Spaces (CLSs) with Generative Adversarial Networks (GANs), producing images directly from textual descriptions. An iterative refinement method is also applied to incrementally enhance the quality of the synthetic images. For further information and access to the trained model, please refer to the provided [Google Drive Link](https://drive.google.com/file/d/1z-IR_WorbH6grMTZ_Zi2MUNRDrveD3pQ/view?usp=sharing).
 
 ## Mini Projects
+
+  _Grade:_ **51/100**
+  
+  TA Feedback -> ( 3.1 figures are not clear -2. 8.1 you can just put the figures of cost is decreasing instead of writing all costs. Try to visualize your results -2 20.1 no comparision of d and p values -10.)
 
 - **Autoencoder Neural Network:** Implementing an autoencoder neural network for unsupervised feature extraction from natural images.
 
@@ -17,6 +25,8 @@ This repository contains coursework, including assignments, projects, and tutori
 - **Recurrent Neural Network Architectures:** Classifying human activity from movement signals measured with three sensors simultaneously using different recurrent neural network architectures such as a single layer RNN, LSTM, and GRU.
 
 ## Tutorials
+
+  _Grade:_ **100/100**
 
 - One Hidden Layer Networks
 - L-layer Networks ReLU
